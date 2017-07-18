@@ -1,0 +1,2 @@
+class Orger < ApplicationRecord
+end
